@@ -1,0 +1,28 @@
+h1{
+  position: relative;
+left: 30vw;
+}
+#login-info{
+    position: relative;
+    left: 10vw;
+    top: 5vw;
+}
+#login{
+    width: 40vw;
+    height: 30vw;
+    border: 1px solid black;
+    
+    position: relative;
+    bottom: 20px;
+    left: 30vw;
+}
+#submit-login{
+    position: relative;
+    left: 7vw;
+
+}
+.psw-recovery{
+    position: relative;
+    left: 50vw;
+    bottom: 20vw;
+}
